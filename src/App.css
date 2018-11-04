@@ -1,0 +1,17 @@
+.hide-element { display:none; }
+
+.button-details {
+  padding-top:1px;
+  background-color:transparent;
+  border:none;
+  font-size:20px;
+  color:orange;
+}
+.button-details:hover { cursor: pointer; }
+.border-red { border:1px solid red;}
+.panel-error {color:red;}
+.panels-col {
+  padding: 15px;
+  border: 1px solid #cccccc;
+  background-color: #efefef;
+}
