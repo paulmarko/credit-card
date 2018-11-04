@@ -21,6 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # other
-/credit-card/_old
-.vscode
-_myExamples
+.env
