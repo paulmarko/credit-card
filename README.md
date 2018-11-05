@@ -1,4 +1,8 @@
-Future home for a banking credit card app in ReactJS.
+ReaactJS / Material-UI  Credit Card Bank App.
+
+Please go here for more information and demo:
+
+https://paulmarko.github.io/
 
 
 ## TO DO
